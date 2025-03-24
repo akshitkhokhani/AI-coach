@@ -24,7 +24,7 @@
 
 ## 🚀 Live Demo
 
-[Check out the live demo](#https://ai-mental-health-coach.streamlit.app/) (Replace with your deployed app URL)
+[[Check out the live demo](https://ai-mental-health-coach.streamlit.app/)](https://ai-mental-health-coach.streamlit.app/)
 
 ## 🛠️ Tech Stack
 
