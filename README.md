@@ -9,7 +9,7 @@
 > An AI-powered mental health counseling assistant that provides empathetic and supportive responses based on professional counseling examples.
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Mental+Health+Assistant" alt="Mental Health Assistant Demo" width="800">
+  <img src="[https://via.placeholder.com/800x400?text=Mental+Health+Assistant](https://ai-mental-health-coach.streamlit.app/)" alt="Mental Health Assistant Demo" width="800">
 </p>
 
 ## ✨ Features
@@ -24,7 +24,7 @@
 
 ## 🚀 Live Demo
 
-[Check out the live demo](#) (Replace with your deployed app URL)
+[Check out the live demo](#https://ai-mental-health-coach.streamlit.app/) (Replace with your deployed app URL)
 
 ## 🛠️ Tech Stack
 
