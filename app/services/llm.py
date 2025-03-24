@@ -65,7 +65,7 @@ Counseling Response:"""
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": user_prompt}
                 ],
-                max_tokens=600,
+                max_tokens=1000,
                 temperature=0.7
             )
             
